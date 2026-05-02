@@ -1,0 +1,29 @@
+# Employee Lifecycle Management System
+
+## Objective
+To manage employees, attendance, leave, and performance.
+
+## Data Model
+- Employee (Main Object)
+- Attendance (Child)
+- Leave Request
+- Performance Review
+
+## Automation
+- Leave Approval Flow
+- Attendance Auto Marking
+- Status Update Flow
+
+## Security
+- Role hierarchy
+- Profile-based access
+
+## Reports
+- Attendance report
+- Leave summary
+- Employee dashboard
+
+## Key Learnings
+- Flow automation
+- Data modeling
+- Admin-level UI design
